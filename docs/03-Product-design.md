@@ -2,24 +2,21 @@
 
 <span style="color:red">Pré-requisitos: <a href="02-Product-discovery.md"> Product discovery</a></span>
 
-
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
-
-Neste momento, transformam-se os insights e validações obtidos em soluções tangíveis e utilizáveis. Esta fase envolve a definição de uma proposta de valor, detalhando a prioridade de cada ideia, e a consequente criação de wireframes, mockups e protótipos de alta fidelidade, que especificam a interface e a experiência do usuário.
-
+<img src="Product Design_page-0001.jpg" alt="">
+<img src="Product Design_page-0002.jpg" alt="">
+<img src="Product Design_page-0003.jpg" alt="">
+<img src="Product Design_page-0004.jpg" alt="">
+<img src="Product Design_page-0005.jpg" alt="">
+<img src="Product Design_page-0006.jpg" alt="">
 
 ## Histórias de usuários
 
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
-
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
-
-Apresente aqui as histórias de usuários que são relevantes para o projeto da sua solução. As histórias de usuários consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuários por contexto, para facilitar consultas recorrentes a esta parte do documento.
+<img src="Product Design_page-0001.jpg" alt="">
+<img src="Product Design_page-0002.jpg" alt="">
+<img src="Product Design_page-0003.jpg" alt="">
+<img src="Product Design_page-0004.jpg" alt="">
+<img src="Product Design_page-0005.jpg" alt="">
+<img src="Product Design_page-0006.jpg" alt="">
 
 > **Links úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -37,10 +34,12 @@ Apresente aqui as histórias de usuários que são relevantes para o projeto da 
 
 ![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O mapa da proposta de valor é uma ferramenta que auxilia na definição do tipo de produto ou serviço que melhor atende às personas previamente estabelecidas.
-
+<img src="Product Design_page-0001.jpg" alt="">
+<img src="Product Design_page-0002.jpg" alt="">
+<img src="Product Design_page-0003.jpg" alt="">
+<img src="Product Design_page-0004.jpg" alt="">
+<img src="Product Design_page-0005.jpg" alt="">
+<img src="Product Design_page-0006.jpg" alt="">
 
 > **Links úteis**:
 > - [O que é o canvas da proposta de valor e como usar?](https://www.youtube.com/watch?v=Iqb-8Q_eiiA)
@@ -52,20 +51,18 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 ### Requisitos funcionais
 
 | ID     | Descrição do Requisito                                   | Prioridade |
-| ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001   | O sistema deve permitir rastreio do dispositivos conectados | alta |
+
 
 ### Requisitos não funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
-| ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em dispositivos móveis ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar as requisições do usuário em no máximo 3 segundos ⚠️ EXEMPLO ⚠️          | BAIXA      |
+| RNF-001 | O sistema deverá estar disponível 7/24 (7 dias por semana 24 horas por dia)
+| alta |
+| RNF-002 | O processo de desenvolvimento – deve utilizar html e css | média |
+| RNF-003 | O site deve ser publicado em um ambiente acessível publicamente na Internet | alta |
+| RNF-004 | O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | média |
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -91,6 +88,4 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 O projeto está restrito aos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|001| O projeto deverá ser entregue até o final do semestre ⚠️ EXEMPLO ⚠️ |
-|002| Não é permitido o desenvolvimento de um módulo de back-end  ⚠️ EXEMPLO ⚠️  |
+|001| O projeto deverá ser entregue até o final do semestre |

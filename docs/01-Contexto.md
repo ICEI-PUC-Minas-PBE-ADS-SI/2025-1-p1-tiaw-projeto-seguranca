@@ -1,13 +1,16 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A segurança pública é uma preocupação fundamental para a sociedade, pois garante a ordem, o bem-estar e a proteção dos cidadãos. Com o avanço da tecnologia, novas ferramentas têm sido desenvolvidas para auxiliar no combate à criminalidade e na melhoria da eficiência dos serviços de segurança. Uma dessas inovações é o uso de aplicativos voltados para a segurança pública, que permitem desde o monitoramento em tempo real até a comunicação direta entre a população e as autoridades. Nosso aplicativos possibilitam a denúncia de crimes, o acesso a informações de segurança e até mesmo o acionamento emergencial de socorro, tornando-se aliados indispensáveis na construção de comunidades mais seguras e conectadas. 
 
 ## Problema
-Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite uma visão completa do problema.
+• Crescente número de assaltos, furtos e homicídios 
+• Expansão do crime organizado 
+• Sensação de impunidade 
+• Medo constante e restrição de circulação 
+• Prejuízos psicológicos, como ansiedade e estresse 
+• Redução da liberdade individual 
+• Fechamento de comércios devido à violência 
+• Redução de investimentos e turismo 
+• Custos elevados com segurança privada
 
 > **Links úteis**:
 > - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -15,26 +18,27 @@ O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permit
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+O principal objetivo do nosso site de segurança pública é conectar os cidadãos diretamente com as autoridades. Através dessas plataformas, é possível denunciar crimes, receber alertas sobre ocorrências em tempo real e até solicitar ajuda emergencial com poucos cliques. Essa integração entre tecnologia e segurança permite uma resposta mais rápida e eficaz, além de incentivar a participação ativa da população na construção de comunidades mais seguras. 
+O uso de um site ou aplicativo voltado para a segurança pública não substitui o trabalho das forças policiais, mas complementa suas ações, tornando o atendimento mais ágil e acessível. Mais do que nunca, é essencial unir inovação e engajamento social para transformar a segurança pública em um direito efetivo para todos.
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
-
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
 > **Links úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O índice de criminalidade cresce a cada vez mais com o passar do tempo, com isso, a população fica cada vez mais insegura com medo de que aconteça algo consigo mesmas ou até mesmo com algum ente querido.
+Com base nesse fato, tivemos como motivação o bem estar da própria população, para garantir um acesso mais rapido e prático para sua própria segurança e também dos demais.
 
 > **Links úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-alvo
+O público-alvo de um site de segurança pública pode ser bastante amplo, pois a segurança é uma preocupação de toda a sociedade. No entanto, alguns grupos específicos podem se beneficiar mais diretamente desse tipo de plataforma.  
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação, mas sim oferecer uma visão detalhada do perfil de cada grupo de usuários. Isso inclui informações sobre seu nível de conhecimento prévio, familiaridade com tecnologia, e suas relações hierárquicas ou contextos de uso. Dessa forma, será possível entender melhor as necessidades e expectativas dos diferentes tipos de usuários, garantindo uma experiência mais eficiente e adaptada.
+• Cidadãos em Geral 
+• Autoridades e Profissionais da Segurança Pública 
+• Órgãos Governamentais e Instituições Públicas 
+• Empresas e Comerciantes 
+• Comunidades e Associações de Bairro
 
 > **Links úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
