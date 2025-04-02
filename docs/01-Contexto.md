@@ -2,14 +2,14 @@
 A segurança pública é uma preocupação fundamental para a sociedade, pois garante a ordem, o bem-estar e a proteção dos cidadãos. Com o avanço da tecnologia, novas ferramentas têm sido desenvolvidas para auxiliar no combate à criminalidade e na melhoria da eficiência dos serviços de segurança. Uma dessas inovações é o uso de aplicativos voltados para a segurança pública, que permitem desde o monitoramento em tempo real até a comunicação direta entre a população e as autoridades. Nosso aplicativos possibilitam a denúncia de crimes, o acesso a informações de segurança e até mesmo o acionamento emergencial de socorro, tornando-se aliados indispensáveis na construção de comunidades mais seguras e conectadas. 
 
 ## Problema
-• Crescente número de assaltos, furtos e homicídios 
-• Expansão do crime organizado 
-• Sensação de impunidade 
-• Medo constante e restrição de circulação 
-• Prejuízos psicológicos, como ansiedade e estresse 
-• Redução da liberdade individual 
-• Fechamento de comércios devido à violência 
-• Redução de investimentos e turismo 
+• Crescente número de assaltos, furtos e homicídios<br>
+• Expansão do crime organizado<br>
+• Sensação de impunidade<br>
+• Medo constante e restrição de circulação<br>
+• Prejuízos psicológicos, como ansiedade e estresse<br>
+• Redução da liberdade individual<br>
+• Fechamento de comércios devido à violência<br>
+• Redução de investimentos e turismo<br>
 • Custos elevados com segurança privada
 
 ## Objetivos

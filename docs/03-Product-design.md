@@ -21,18 +21,18 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 ### Requisitos funcionais
 
-| ID     | Descrição do Requisito                                   | Prioridade |
+| ID     | Descrição do Requisito                                   | Prioridade |<br>
 | RF-001   | O sistema deve permitir rastreio do dispositivos conectados | alta |
 
 
 ### Requisitos não funcionais
 
-| ID      | Descrição do Requisito                                                              | Prioridade |
+| ID      | Descrição do Requisito                                                              | Prioridade |<br>
 | RNF-001 | O sistema deverá estar disponível 7/24 (7 dias por semana 24 horas por dia)
-| alta |
-| RNF-002 | O processo de desenvolvimento – deve utilizar html e css | média |
-| RNF-003 | O site deve ser publicado em um ambiente acessível publicamente na Internet | alta |
-| RNF-004 | O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | média |
+| alta |<br>
+| RNF-002 | O processo de desenvolvimento – deve utilizar html e css | média |<br>
+| RNF-003 | O site deve ser publicado em um ambiente acessível publicamente na Internet | alta |<br>
+| RNF-004 | O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | média |<br>
 
 ## Restrições
 
@@ -40,5 +40,5 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 O projeto está restrito aos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
+|ID| Restrição                                             |<br>
 |001| O projeto deverá ser entregue até o final do semestre |
