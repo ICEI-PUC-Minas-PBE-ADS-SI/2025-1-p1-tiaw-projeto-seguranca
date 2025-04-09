@@ -1,9 +1,5 @@
 # Product discovery
 
-<span style="color:red">Pré-requisitos: <a href="01-Contexto.md"> Documentação de contexto</a></span>
-
-✅ [Documentação de Design Thinking (MIRO)](files/processo-dt.pdf)
-
 ## Etapa de entendimento
 
 <img src="Matriz CSD.jpg" alt="">
@@ -15,6 +11,4 @@
 
 ### Personas
 
-<img src="persona1.jpg" alt="">
-<img src="persona2.jpg" alt="">
-<img src="persona3.jpg" alt="">
+<img src="Product Design-pag1.jpg" alt="">

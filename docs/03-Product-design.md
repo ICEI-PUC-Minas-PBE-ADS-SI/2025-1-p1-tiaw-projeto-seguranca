@@ -1,7 +1,5 @@
 # Product design
 
-<span style="color:red">Pré-requisitos: <a href="02-Product-discovery.md"> Product discovery</a></span>
-
 <img src="Product Design-pag1.jpg" alt="">
 <img src="Product Design-pag2.jpg" alt="">
 <img src="Product Design-pag3.jpg" alt="">
