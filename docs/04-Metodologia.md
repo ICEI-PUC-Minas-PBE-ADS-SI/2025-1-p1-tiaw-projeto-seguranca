@@ -28,6 +28,5 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 |-------------------------------------|------------------------------------|--------------------------------------|<br>
 | Editor de códigos                   | VScode                             | https://code.visualstudio.com        |<br>
 | Ferramentas de comunicacao          | Discord                            | https://discord.com                  |<br>
-| Ferramentas de diagramaçãp          | Miro                               | https://miro.com                     |<br>
+| Ferramentas de diagramação          | Miro                               | https://miro.com                     |<br>
 | Plataforma de hospedagem            | Replit                             | https://replit.com                   |<br>
-
