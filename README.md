@@ -16,6 +16,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Gustavo Venâncio Fonseca
 * Kaiky Rodrigues Dias
 * Davi Araujo Dias
+* Gustavo Henrique Teixeira de Souza Batiista
 
 ## Professor
 
